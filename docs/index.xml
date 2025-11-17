@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Semba-blog</title>
+<link>https://semba-bot.github.io/semba-blog/</link>
+<atom:link href="https://semba-bot.github.io/semba-blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Conservation blogs</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Sun, 16 Nov 2025 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Daily updates</title>
+  <dc:creator>Stephano Semba</dc:creator>
+  <link>https://semba-bot.github.io/semba-blog/posts/daily-updates/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="general-blooming-and-foliage" class="level2">
+<h2 class="anchored" data-anchor-id="general-blooming-and-foliage">General blooming and Foliage</h2>
+<p>Miombo trees are deciduous, losing most of their leaves during the dry season(winter).The most visually striking period is the late dry season flush in early spring, usually around August and September, just before the onset of the rain. During this time the woodlands are covered by vibrant nee foliage of red, orange and yellow hues.</p>
+<div class="border">
+<p><em>Julbenardia globiflora</em> flowering season to February and March, <em>Brachystegia spiciformis</em> August to September and <em>Pterocarpus tinctorius</em> March to May.</p>
+</div>
+<p>These variations mean that while there is a peak period for a new foliage, the overall blooming of different species can spam much of the year</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Mlele hills Forest Reserve is Miombo woodlands ecosystem</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Updates</category>
+  <guid>https://semba-bot.github.io/semba-blog/posts/daily-updates/</guid>
+  <pubDate>Sun, 16 Nov 2025 21:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New Feeds</title>
+  <dc:creator>Stephano Semba</dc:creator>
+  <link>https://semba-bot.github.io/semba-blog/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The Miombo woodlands are vital ecosystems for both communities and wildlife. The Mlele Forest Reserve, located in Mlele District, is a prime example, providing essential resources and serving as a crucial year-round water catchment via the Kapapa River.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://semba-bot.github.io/semba-blog/posts/post-with-code/pic02.jpg" class="img-fluid figure-img"></p>
+<figcaption>The kapapa river at Mlele Forest</figcaption>
+</figure>
+</div>
+<ul>
+<li>The Mlele Hill Forest Reserve is ecologically vital, crucially maintaining water quality. The perennial flow of the Kapapa River is a direct indicator of the forest’s health and its support for wildlife.</li>
+</ul>
+
+
+
+ ]]></description>
+  <category>Insights</category>
+  <category>Nature</category>
+  <guid>https://semba-bot.github.io/semba-blog/posts/post-with-code/</guid>
+  <pubDate>Sun, 16 Nov 2025 21:00:00 GMT</pubDate>
+  <media:content url="https://semba-bot.github.io/semba-blog/posts/post-with-code/pic01.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>My New post</title>
+  <dc:creator>Stephano Semba</dc:creator>
+  <link>https://semba-bot.github.io/semba-blog/posts/my-new-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Stephano Semba is integrating data science with his conservation background to solve emerging environmental challenges. This skillset is an asset for both his career growth and his institute’s impact. Data science empowers and advances national conservation efforts</p>
+<ul>
+<li>Emerging conservation challenges—driven by poverty, agricultural expansion, and demand for timber—are causing significant forest degradation and loss. Data science provides a powerful solution by using computation and analysis to accurately measure forest cover and deliver critical insights to policymakers and institutions.</li>
+</ul>
+
+
+
+ ]]></description>
+  <category>thoughts</category>
+  <guid>https://semba-bot.github.io/semba-blog/posts/my-new-post/</guid>
+  <pubDate>Sat, 15 Nov 2025 21:00:00 GMT</pubDate>
+  <media:content url="https://semba-bot.github.io/semba-blog/posts/my-new-post/zanzibar.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Stephano Semba</dc:creator>
+  <link>https://semba-bot.github.io/semba-blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This blog provides news on conservation, covering forest management, ecotourism, and antiquities. These roles are mandated to the Tanzania Forest Services Agency.This blog, informed by my work at Tanzania Forest Service, will be a key resource for sharing crucial updates.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://semba-bot.github.io/semba-blog/posts/welcome/pic.jpg" class="img-fluid figure-img"></p>
+<figcaption>Mlele forest reserve walk way</figcaption>
+</figure>
+</div>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://semba-bot.github.io/semba-blog/posts/welcome/</guid>
+  <pubDate>Sat, 15 Nov 2025 21:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

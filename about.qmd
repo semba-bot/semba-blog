@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: zanzibar.jpg
+image: zanzibar.jpg 
 about:
   template: jolla
   links:
