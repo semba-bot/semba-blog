@@ -1,0 +1,11 @@
+---
+title: "Welcome To My Blog"
+author: "Stephano Semba"
+date: "2025-11-16"
+categories: [news]
+---
+This blog provides news on conservation, covering forest management, ecotourism, and antiquities. These roles are mandated to the Tanzania Forest Services Agency.This blog, informed by my work at Tanzania Forest Service, will be a key resource for sharing crucial updates.
+
+![Mlele forest reserve walk way](pic.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

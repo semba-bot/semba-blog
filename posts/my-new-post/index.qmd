@@ -1,0 +1,9 @@
+---
+title: "My New post"
+author: "Stephano Semba"
+date: "2025-11-16"
+categories: [thoughts]
+image: "zanzibar.jpg"
+---
+
+Stephano Semba is integrating data science with his conservation background to solve emerging environmental challenges. This skillset is an asset for both his career growth and his institute's impact.

@@ -1,0 +1,11 @@
+---
+title: "New Feeds"
+author: "Stephano Semba"
+date: "2025-11-17"
+categories: [Insights, Nature]
+image: "pic01.jpg"
+---
+
+The Miombo woodlands are vital ecosystems for both communities and wildlife. The Mlele Forest Reserve, located in Mlele District, is a prime example, providing essential resources and serving as a crucial year-round water catchment via the Kapapa River.
+
+![The kapapa river at Mlele Forest](pic02.jpg)
