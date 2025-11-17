@@ -1,0 +1,11 @@
+---
+title: "Home"
+logo: "Ultimate"
+format: html
+---
+
+New blog posts are published daily with verified information, also available on various social media platforms.
+
+:::{.callout-important}
+Look for my daily blog post and share your feeds
+:::

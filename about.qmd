@@ -16,4 +16,4 @@ about:
 
 ---
 
-Stephano Semba is leveraging his background in conservation by integrating it with data science to solve emerging environmental issues and advance his career. Stephano's conservation career began at the Forest Training Institute, Olmotonyi, and he was inspired by his family to integrate data science into this field.
+Stephano Semba is leveraging his background in conservation by integrating it with data science to solve emerging environmental issues and advance his career. Stephano's conservation career began at the Forest Training Institute, Olmotonyi Arusha, this is government owned institution and he was inspired by his family to integrate data science into this field.

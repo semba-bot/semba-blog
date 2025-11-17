@@ -8,6 +8,7 @@ website:
     background: secondary
     right:
       - about.qmd
+      - home.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
