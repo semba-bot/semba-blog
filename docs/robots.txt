@@ -1,1 +1,0 @@
-Sitemap: https://semba-bot.github.io/semba-blog/sitemap.xml

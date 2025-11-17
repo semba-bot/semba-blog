@@ -90,11 +90,6 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
@@ -165,7 +160,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="general-blooming-and-foliage" class="level2">
 <h2 class="anchored" data-anchor-id="general-blooming-and-foliage">General blooming and Foliage</h2>
-<p>Miombo trees are deciduous, losing most of their leaves during the dry season(winter).The most visually striking period is the late dry season flush in early spring, usually around August and September, just before the onset of the rain. During this time the woodlands are covered by vibrant nee foliage of red, orange and yellow hues.</p>
+<p>Miombo trees are deciduous, losing most of their leaves during the dry season(winter).The most visually striking period is the late dry season flush in early spring, usually around August and September, just before the onset of the rain. During this time the woodlands are covered by vibrant new foliage of red, orange and yellow hues.</p>
 <div class="border">
 <p><em>Julbenardia globiflora</em> flowering season to February and March, <em>Brachystegia spiciformis</em> August to September and <em>Pterocarpus tinctorius</em> March to May.</p>
 </div>
@@ -280,7 +275,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/semba-bot\.github\.io\/semba-blog\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

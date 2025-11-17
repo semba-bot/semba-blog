@@ -4,13 +4,9 @@ project:
 
 website:
   title: "Semba-blog"
-  site-url: https://semba-bot.github.io/semba-blog/
-  description: "Conservation blogs"
   navbar:
     background: secondary
     right:
-      - icon: rss
-        href: index.xml
       - about.qmd
       - home.qmd
       - icon: github
