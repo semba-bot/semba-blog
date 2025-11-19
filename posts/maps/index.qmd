@@ -1,5 +1,8 @@
 ---
 title: "National Parks and Forest reserves"
+author: "Stephano semba"
+date: 2025-11-19
+categories: [Map]
 execute: 
   echo: false
   message: false
