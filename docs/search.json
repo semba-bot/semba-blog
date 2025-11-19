@@ -14,27 +14,6 @@
     "text": "Stephano Semba is integrating data science with his conservation background to solve emerging environmental challenges. This skillset is an asset for both his career growth and his institute’s impact. Data science empowers and advances national conservation efforts\n\nEmerging conservation challenges—driven by poverty, agricultural expansion, and demand for timber—are causing significant forest degradation and loss. Data science provides a powerful solution by using computation and analysis to accurately measure forest cover and deliver critical insights to policymakers and institutions."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Semba-blog",
-    "section": "",
-    "text": "Daily updates\n\n\n\n\n\n\nUpdates\n\n\n\n\n\n\n\n\n\nNov 17, 2025\n\n\nStephano Semba\n\n\n\n\n\n\n\n\n\n\n\n\nNew Feeds\n\n\n\n\n\n\nInsights\n\n\nNature\n\n\n\n\n\n\n\n\n\nNov 17, 2025\n\n\nStephano Semba\n\n\n\n\n\n\n\n\n\n\n\n\nMy New post\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nNov 16, 2025\n\n\nStephano Semba\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 16, 2025\n\n\nStephano Semba\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Stephano Semba is leveraging his background in conservation by integrating it with data science to solve emerging environmental issues and advance his career. Stephano’s conservation career began at the Forest Training Institute, Olmotonyi Arusha, this is government owned institution and he was inspired by his family to integrate data science into this field."
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Home",
-    "section": "",
-    "text": "New blog posts are published daily with verified information, also available on various social media platforms.\n\n\n\n\n\n\nImportant\n\n\n\nLook for my daily blog post and share your feeds"
-  },
-  {
     "objectID": "posts/daily-updates/index.html",
     "href": "posts/daily-updates/index.html",
     "title": "Daily updates",
@@ -49,10 +28,38 @@
     "text": "Miombo trees are deciduous, losing most of their leaves during the dry season(winter).The most visually striking period is the late dry season flush in early spring, usually around August and September, just before the onset of the rain. During this time the woodlands are covered by vibrant new foliage of red, orange and yellow hues. This fresh leaf flush not only transforms the landscape visually but also play an important ecological role. Providing a burst of nutrients for herbivores after the nutrient-poor dry season and signaling the start of renewed biological activity in the ecosystems.\n\nJulbenardia globiflora flowering season to February and March, Brachystegia spiciformis August to September and Pterocarpus tinctorius March to May.\n\nThese variations mean that while there is a peak period for a new foliage, the overall blooming of different species can spam much of the year.\n\n\n\n\n\n\nTip\n\n\n\nMlele hills Forest Reserve is Miombo woodlands ecosystem"
   },
   {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Home",
+    "section": "",
+    "text": "New blog posts are published daily with verified information, also available on various social media platforms.\n\n\n\n\n\n\nImportant\n\n\n\nLook for my daily blog post and share your feeds"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Stephano Semba is leveraging his background in conservation by integrating it with data science to solve emerging environmental issues and advance his career. Stephano’s conservation career began at the Forest Training Institute, Olmotonyi Arusha, this is government owned institution and he was inspired by his family to integrate data science into this field."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Semba-blog",
+    "section": "",
+    "text": "National Parks and Forest reserves\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDaily updates\n\n\n\n\n\n\nUpdates\n\n\n\n\n\n\n\n\n\nNov 17, 2025\n\n\nStephano Semba\n\n\n\n\n\n\n\n\n\n\n\n\nNew Feeds\n\n\n\n\n\n\nInsights\n\n\nNature\n\n\n\n\n\n\n\n\n\nNov 17, 2025\n\n\nStephano Semba\n\n\n\n\n\n\n\n\n\n\n\n\nMy New post\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nNov 16, 2025\n\n\nStephano Semba\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 16, 2025\n\n\nStephano Semba\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/maps/index.html",
+    "href": "posts/maps/index.html",
+    "title": "National Parks and Forest reserves",
+    "section": "",
+    "text": "Loading required package: leaflet\n\n\nWarning: package 'leaflet' was built under R version 4.5.2\n\n\nLoading required package: rnaturalearth\n\n\nWarning: package 'rnaturalearth' was built under R version 4.5.2\n\n\nLoading required package: tidyverse\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.2     ✔ tibble    3.2.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.0.4     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "New Feeds",
     "section": "",
-    "text": "The Miombo woodlands are vital ecosystems for both communities and wildlife. The Mlele Forest Reserve, located in Mlele District, is a prime example, providing essential resources and serving as a crucial year-round water catchment via the Kapapa River.\n\n\n\nThe kapapa river at Mlele Forest\n\n\n\nThe Mlele Hill Forest Reserve is ecologically vital, crucially maintaining water quality. The perennial flow of the Kapapa River is a direct indicator of the forest’s health and its support for wildlife."
+    "text": "The Miombo woodlands are vital ecosystems for both communities and wildlife. The Mlele Forest Reserve, located in Mlele District, is a prime example, providing essential resources and serving as a crucial year-round water catchment via the Kapapa River.\n\n\n\nThe kapapa river at Mlele Forest Reserve\n\n\n\nThe Mlele Hill Forest Reserve is ecologically vital, crucially maintaining water quality. The perennial flow of the Kapapa River is a direct indicator of the forest’s health and its support for wildlife."
   }
 ]

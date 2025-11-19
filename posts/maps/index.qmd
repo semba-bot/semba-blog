@@ -1,0 +1,72 @@
+---
+title: "National Parks and Forest reserves"
+execute: 
+  echo: false
+  message: false
+  warning: false
+---
+
+# Overview
+Jozani Forest Reserve, officially known as Jozani Chwaka Bay National Park, is the only national park in Zanzibar and a top attraction famous for its rare wildlife, particularly the endemic Zanzibar red colobus monkey
+
+The core and buffer zones of the Jozani-Chwaka Bay National Park's biosphere reserve remain uninhabited, while approximately 16,423 individuals reside in the transition zone, where they engage in various livelihoods. This population is culturally diverse, including mix of Bantu peoples; the earlier Makunduchi people, and the recent Shirazi communities, with the Hadimu people being the predominant ethnic group and Shirazi representing a smaller segment.
+
+Tourism stands out as the primary economic activity in the area, closely followed by agriculture and fishing, which also play vital roles in the local economy. Additionally, residents participate in livestock farming and gather resources from the forest, including non-timber products such as honey from beekeeping and locally crafted handicrafts.
+
+
+```{r}
+#| label: load-packages
+ suppressPackageStartupMessages({
+   require(leaflet)
+require(rnaturalearth)
+require(tidyverse)
+})
+
+
+tanzania = ne_countries(scale = "medium", returnclass = "sf")
+
+# Create sample forest reserve data
+
+forest_reserves = data.frame(
+  name = c("Udzungwa Mountain NP", "Kilimajaro NP", "Arusha NP", "Mikumi NP",
+           "Selous Game reserve", "Gombe Strem Np", "Kitulo plateau", "jozani Forest", "Rubondo island NP"),
+  type = c("National park", "National park", "National Park", "National park", "Game reserve", "National park", "National park", "Forest reserve", "National park"),
+  lat = c(-7.7639,  -3.0674, -3.2504, -7.4000, -9.0000, - 4.6667, -8.7500, -6.2833, -2.3000),
+  lng = c(35.5500, 37.3556, 36.8200, 36.9833, 38.5000,29.6167, 33.9333, 39.4167, 31.8000),
+  area_km2 = c(1990, 1688, 552, 3234, 50000, 52,413,50,456)
+)
+
+
+leaflet(tanzania) |>
+  addProviderTiles(providers$Esri.WorldTopoMap) |>
+  addPolygons(
+    fillColor = "lightgreen",
+    weight = 2,
+    color = "darkgreen",
+    fillOpacity = 0.3,
+    label = "Tanzania"
+  ) |>
+  addCircleMarkers(
+    data = forest_reserves,
+    lng = ~lng,
+    lat = ~lat,
+    radius = ~sqrt(area_km2) / 10,
+    color = "black",
+    fillColor = "darkgreen",
+    fillOpacity = 0.7,
+    weight = 1,
+    label = ~name,
+    popup = ~paste(
+      "<b>", name, "</b><br>",
+      "Type: ", type, "<br>",
+      "Area: ", format(area_km2, big.mark = ","), 
+      "Region Tanzania"
+    )
+  ) |>
+  addLegend(
+    colors = "darkgreen",
+    labels = "Forest reserves and National park in Tanzania",
+    position = "bottomright"
+  )
+```
+
